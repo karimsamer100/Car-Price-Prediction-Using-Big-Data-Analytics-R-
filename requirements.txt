@@ -1,0 +1,12 @@
+# R Package Dependencies for Car Price Prediction Project
+# Install these packages in R using: install.packages(c("package1", "package2", ...))
+
+tidyverse>=2.0.0        # Data manipulation and visualization (includes dplyr, ggplot2, tidyr, etc.)
+rpart>=4.1.0            # Recursive Partitioning and Regression Trees (Decision Trees)
+rpart.plot>=3.1.0       # Enhanced tree plots for rpart models
+randomForest>=4.7.0     # Breiman and Cutler's Random Forests for Classification and Regression
+
+# Optional but recommended packages:
+# corrplot>=0.92        # Visualization of correlation matrices
+# caret>=6.0.0          # Classification and Regression Training
+# Metrics>=0.1.0        # Evaluation metrics for ML models

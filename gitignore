@@ -1,0 +1,76 @@
+# R specific files
+.Rhistory
+.RData
+.Rproj.user
+.Rapp.history
+*.Rproj
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# R Environment Variables
+.Renviron
+.Rprofile
+
+# Temporary files
+*~
+*.swp
+*.swo
+*-Ex.R
+
+# Output files
+*.log
+*.out
+
+# R build artifacts
+/*.tar.gz
+/*.Rcheck/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+
+# pkgdown site
+docs/
+
+# Translation temp files
+po/*~
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# OAuth tokens
+.httr-oauth
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (uncomment if you don't want to track large datasets)
+# *.csv
+# *.xlsx
+# *.rds
+# *.RData
+
+# Plot outputs (uncomment if you don't want to track generated plots)
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
