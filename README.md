@@ -246,7 +246,7 @@ Contributions are welcome! If you have suggestions for improvements:
 ## 📝 Course Information
 
 **Course**: CSE486 – Big Data Analytics  
-**Institution**: [Your University Name]  
+**Institution**: Ain Shams University  
 **Academic Year**: 2024-2025
 
 ---
